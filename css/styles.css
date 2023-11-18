@@ -1,0 +1,225 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+    color: #434455;
+
+}
+
+
+.link {
+    text-decoration: none;
+}
+
+.list {
+    list-style-type: none;
+}
+
+
+.logo-color {
+    color: #2E2F42;
+}
+
+/* Header */
+.logo {
+        color: #4D5AE5;
+        font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+}
+
+.header-menu-link {
+    color: #2E2F42;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
+.contacts {
+    font-style: normal;
+}
+
+.contacts-menu-link {
+    color: #434455;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
+.header-menu-link:focus,
+.header-menu-link:hover,
+.header-menu-link:active {
+    color: #404BBF;
+}
+ 
+
+.contacts-menu-link:focus,
+.contacts-menu-link:hover {
+    color: #404BBF;
+}
+   
+/* Hero */
+ .hero {
+    background: #2E2F42;
+ } 
+ 
+ .hero-title {
+    color: #ffffff;
+        text-align: center;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+ }
+
+.hero-button {
+    cursor: pointer;
+}
+
+.hero-button-text {
+    color: #ffffff;
+    background: #4D5AE5;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+}
+
+
+.hero-button:hover,
+.hero-button:focus {
+    color: #FFFFFF;
+        background-color: #404BBF;
+}
+
+/* Section Advantages */
+.advantages-menu-title {
+    color: #2E2F42;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+
+.advantages-menu-title {
+    color: #2E2F42;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+
+.advantages-menu-text {
+    color: #434455;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
+/* Section Our Team */
+.our-team-section {
+    background: #F4F4FD;
+}
+
+.our-team-title {
+    color: #2E2F42;
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+}
+
+.our-team-menu-item {
+    background-color:#ffffff;
+}
+
+.our-team-menu-card-pd {
+    background: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
+}
+
+.our-team-menu-card-fd {
+    background: url(<path-to-image>), lightgray -335.01px -22.055px / 256.162% 173.614% no-repeat;
+}
+
+.our-team-menu-card-m {
+    background: url(<path-to-image>), lightgray -128.784px -0.151px / 197.563% 133.752% no-repeat;
+}
+
+.our-team-menu-card-ud {
+    background: url(<path-to-image>), lightgray -200px -7.128px / 251.515% 170.277% no-repeat;
+}
+
+.our-team-menu-title {
+    color: #2E2F42;
+        text-align: center;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+
+.our-team-menu-text {
+        text-align: center;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
+/* Section Portfolio */
+
+.portfolio-title {
+    color: #2E2F42;
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+}
+
+
+.portfolio-menu-title {
+    color: #2E2F42;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+
+.portfolio-menu-text {
+    color: #434455;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
+/* Footer */
+.page-footer {
+    background: #2E2F42;
+}
+
+.footer-logo {
+    color: #4d5ae5;
+    font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+}
+
+.logo-part {
+    color: #F4F4FD;
+}
+
+.page-footer-text {
+    color: #F4F4FD;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
